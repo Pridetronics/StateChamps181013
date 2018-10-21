@@ -9,7 +9,6 @@ public class ClawUp extends TimedCommand {
 	public ClawUp(double timeout) {
 		super(timeout);
 		requires(Robot.lift);
-		// TODO Auto-generated constructor stub
 	}
 
 	protected void initialize() {
