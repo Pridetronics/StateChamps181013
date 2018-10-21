@@ -113,7 +113,7 @@ public class Robot extends TimedRobot {
 		 * (imgLock) { centerX = r.x + (r.width / 2); } } });
 		 */
 
-		SmartDashboard.putString("RobotID", "Test-181018a");
+		SmartDashboard.putString("RobotID", "StateChamps181013");
 
 		// SmartDashboard.putNumber("FieldPosition", 1);
 
